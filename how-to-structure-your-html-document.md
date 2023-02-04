@@ -20,7 +20,7 @@ As seen from the code snippet above, tags can be placed inside other tagged elem
 
 ***
 
-### **Part 2 - The HTML Document Structure.**
+### **Part 2 - Basics of HTML Document Structure.**
 
 > Every HTML document, regardless of its size and intention, has a preset structure. Although, this condition never changes, it does not affect flexibility of the language at all. Below is the example of a typical HTML document structure.
 
