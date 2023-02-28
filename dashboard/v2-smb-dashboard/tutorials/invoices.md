@@ -10,7 +10,7 @@ The Invoices menu allows the client to send selected invoices/bills to an extern
 
 The main page has two sections: **Invoices** and **Bills**.
 
-<figure><img src="../../../.gitbook/assets/image-20220922-105454 (1).png" alt=""><figcaption><p>Invoices</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-20220922-105454.png" alt=""><figcaption><p>Invoices</p></figcaption></figure>
 
 ## What is Payment Status
 
