@@ -18,3 +18,5 @@ Connect More apps to get better view. See [**Connect Apps**](https://youtu.be/iR
 
 {% embed url="https://youtu.be/iR7b2NjgAO8" %}
 
+{% embed url="https://app.arcade.software/share/PzOO7RUiHzNsAGgYT4oQ" %}
+
